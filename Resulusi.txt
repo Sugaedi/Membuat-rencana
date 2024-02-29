@@ -1,3 +1,4 @@
 ini latihan pertama membuat github 
 - membuat toko online shop
 - jadi afilisi shop
+- jadi kaya
